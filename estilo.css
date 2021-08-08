@@ -288,7 +288,7 @@ p {
 	background: #91aed4;
 	/* #448a9e   */
 	color: #fff;
-	height: 30%;
+	height: 32%;/*30*/
 	width: 100%;
 	padding: 1.5vw;
 	position: bottom;
@@ -374,7 +374,11 @@ p {
 	float: right;
 }
 
-.func {
+.func{
+	list-style: disc;
+}
+
+.social{
 	list-style: disc;
 }
 
@@ -640,3 +644,4 @@ input[type="button"]:hover {
 .n_empresa h1 {
 	font-size: 2vw;
 }
+

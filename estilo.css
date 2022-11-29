@@ -549,7 +549,7 @@ hr {
 
 input[type="button"] {
 	display: block;
-	width: 50%;
+	width: 105%; /*50%*/
 	height: 4vw;
 	font-family: Arial;
 	font-size: 1.5vw;

@@ -615,11 +615,14 @@ input[type="button"]:hover {
 
 
 
-.imgPort {
+.imgPort-sub1 {
 	width: 90vw;    /* 40  20vw  */
 	height: 120vw;   /* 60 17vw*/
 }
-
+.imgPort {
+	width: 20vw;    
+	height:17vw;   
+}
 .portDiv table {
 	border-spacing: 5vw;
 	width: 100%;

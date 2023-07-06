@@ -616,8 +616,8 @@ input[type="button"]:hover {
 
 
 .imgPort {
-	width: 40vw;    /*20vw  */
-	height: 60vw;   /*17vw*/
+	width: 80vw;    /* 40  20vw  */
+	height: 120vw;   /* 60 17vw*/
 }
 
 .portDiv table {

@@ -20,7 +20,7 @@
 
 #menu-h ul li a {
 	color: #FFF;
-	padding: 20px;
+	padding: 10px;/*20px*/
 	display: inline-block;
 	text-decoration: none;
 	transition: background .4s;

@@ -488,9 +488,10 @@ hr {
 	text-align: center;
 }
 
-#equip {
+/*aqui*//*	background-attachment: fixed;*/
+/*#equip {
 	background-image: url("equipe.jpeg");
-	/*	background-attachment: fixed;*/
+	
 
 	background-size: 100%;
 	width: 100%;
@@ -499,7 +500,7 @@ hr {
 	border-radius: 0.5vw;
 	border: solid 2px;
 
-}
+}*/
 
 #mvv {
 	color: white;

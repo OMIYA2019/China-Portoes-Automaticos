@@ -386,9 +386,18 @@ p {
     padding-bottom: 3%;
 }
 
+portDiv {
+    /*padding-top: .5%;
+	padding-left: 5%;*/
+    width: 30px;
+    /*150*/
+    margin-left: 2%;
+}
+
 form {
     background-color: rgba(28, 108, 158, 0.6);
     width: 65%;
+    /*65*/
     border-radius: 2vw;
     padding-top: 3%;
     padding-bottom: 3%;
@@ -415,15 +424,17 @@ input[type="reset"] {
 
 textarea {
     width: 25vw;
+    /* 25vw  */
 }
 
 select {
-    width: 8vw;
+    width: 2vw;
+    /*8vw  */
 }
 
 .hrCont {
-    width: 50%;
-    /*100%*/
+    width: 100%;
+    /*100%   */
 }
 
 
@@ -483,8 +494,8 @@ hr {
     padding-left: 1vw;
 }
 
-.mvv h1 {
-    font-size: 3vw;/* .mvv h4    3vw*/
+.mvv h4 {
+    font-size: 3vw;
 }
 
 .mvv h5 {
